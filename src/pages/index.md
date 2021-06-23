@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/home.svg
     image_alt: App preview
     title: Graphic Design at Scale
     content: >
