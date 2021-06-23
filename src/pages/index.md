@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Graphic Design at Scale
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Group524 works with top brands to provide on-demand graphic design
+      services. Utilize our awarding team to handle all your design needs for
+      one fixed monthly rate.
     actions:
       - label: Learn More
         url: /features
