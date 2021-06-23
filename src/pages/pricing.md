@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Basic
+      - title: Essentials
         subtitle: For small businesses
         price: '$1,000/mo'
         details: |
