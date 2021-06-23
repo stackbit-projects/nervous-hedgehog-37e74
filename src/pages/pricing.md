@@ -10,11 +10,18 @@ sections:
       - title: Basic
         subtitle: For small businesses
         price: '$1,000/mo'
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Up to 20 hours of design
+          *   Unlimited requests/revisions
+          *   Rollover hours each month
+          *   A dedicated project manager
+          *   1-2 dedicated designers
+          *   Average turnaround time 1-2 business days
+          *   Access to 12-24 hour turnaround time for a small premium
+          *   Free stock photos (from our image reservoir)
+          *   Native source files included
+          *   14 day satisfaction guarantee
+          *   No long-term contracts/cancel anytime
         actions:
           - label: Order Now
             url: /signup
