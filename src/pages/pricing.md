@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: For very large businesses
-        price: $149/m
+        price: '$10,000/mo'
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
