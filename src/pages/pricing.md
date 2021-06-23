@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
-        price: $5/m
+        price: '$1,000/mo'
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
